@@ -1,10 +1,67 @@
-<h2 align="center">I'm Abhishek👋, web developer from India</h2>
-<!-- <h2 align="center">I'm Abhishek👋, apasionado / web developer 💻 working remotely from India</h2> -->
-<!-- <h3 align="center">A passionate web developer from India</h3> -->
+<div align="center">
+<a href="https://twitter.com/axolodev" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/axolodev" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/robruizr" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://hashnode.com/@axolodev" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/@axolodev" target="_blank">
+  <img src=https://img.shields.io/badge/Youtube_Español-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>
 
-- 📫 How to reach me **abhishek.gadhia@gmail.com**
+## <div align="center">I'm Abhishek, an apasianado/ Java developer 💻 working remotely from India</div>  
+
+- 🌱 I’m certified in Java full stack web development
+- 🧑‍🎓 I'm currently studying developing web dev projects with React.js <!-- - 🛠 I’m currently working on [Congo, a Next.js theme](https://github.com/RobRuizR/next-theme-congo)   -->
+- 👨‍🏫 I'm happy to help you through Java / MySQL issues  
+
+<br/>
+
+## My main stack
+<br />
+<div align="center">  
+<a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a> &nbsp; <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="TypeScript" height="70" /></a> &nbsp; <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="NextJS" height="75" /></a> &nbsp; <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>
+  <br />
+
+</div>
+
+<br/>
+
+#### Other technologies I use
+
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  &nbsp; <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a> &nbsp; <a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px"  src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25" /></a> &nbsp; <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a> &nbsp; <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" /></a>  &nbsp; <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a> &nbsp; <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" width="25" /></a>
+
+<br/>  
+
+### Personal Projects
+Name | Description | Status 
+-----|-------------|--------
+[Core-Java-MenuSystem] | A hypermarket kiosk that displays inventory and allows user to select items and pay | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg)
+[Java with database] | A splitwise like portal that manages payment records | ![In Progress](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg)
+[Complete bus transit system with GUI](https://github.com/RobRuizR/esp8266-appwrite-led) | An interactive platform where users can track, fetch and book bus betails | ![In Progress](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg)
 
 
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhishekgadhia1&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div> 
+
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+<br/>  
