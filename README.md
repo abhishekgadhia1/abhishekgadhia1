@@ -1,19 +1,19 @@
 <div align="center">
-<a href="https://twitter.com/axolodev" target="_blank">
+<a href="https://twitter.com/abhishekgadhia" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/axolodev" target="_blank">
+<!-- <a href="https://dev.to/axolodev" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/robruizr" target="_blank">
+</a> -->
+<a href="https://linkedin.com/in/abhishek-m-g" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://hashnode.com/@axolodev" target="_blank">
+<!-- <a href="https://hashnode.com/@axolodev" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@axolodev" target="_blank">
   <img src=https://img.shields.io/badge/Youtube_Español-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+</a>   -->
 </div>
 
 ## <div align="center">I'm Abhishek, an apasianado/ Java developer 💻 working remotely from India</div>  
