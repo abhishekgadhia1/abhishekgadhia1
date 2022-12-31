@@ -57,8 +57,8 @@ Name | Description | Status
 
 <br/>  
 
-
-## Recent Blog Posts  
+<!-- 
+## Recent Blog Posts   -->
 <!-- BLOG-POST-LIST:START -->  
 
 <!-- BLOG-POST-LIST:END -->  
