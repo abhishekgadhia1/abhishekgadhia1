@@ -20,7 +20,7 @@
 
 - 🌱 I’m certified in Java full stack web development
 - 🧑‍🎓 I'm currently studying developing web dev projects with React.js <!-- - 🛠 I’m currently working on [Congo, a Next.js theme](https://github.com/RobRuizR/next-theme-congo)   -->
-- 👨‍🏫 I'm happy to help you through Java / MySQL issues  
+- 👨‍🏫 I'm happy to help you through Java / SpringBoot issues  
 
 <br/>
 
