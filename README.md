@@ -43,7 +43,7 @@
 ### Personal Projects
 Name | Description | Status 
 -----|-------------|--------
-[Core-Java Menu System] | A hypermarket kiosk that displays inventory and allows user to select items and pay | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg)
+[Core-Java Menu System] | A hypermarket kiosk that displays inventory & allows user to select items and pay | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg)
 [Java with database] | A splitwise like portal that manages payment records | ![In Progress](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg)
 [Complete bus transit system with GUI] | An interactive platform where users can track, fetch and book bus betails | ![In Progress](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg)
 
