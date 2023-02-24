@@ -40,7 +40,7 @@
 
 <br/>  
 
-### Personal Projects
+### Projects
 Name | Description | Status 
 -----|-------------|--------
 [Core-Java Menu System] | A hypermarket kiosk that displays inventory & allows user to select items and pay | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg)
