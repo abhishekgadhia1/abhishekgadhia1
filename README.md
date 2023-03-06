@@ -27,7 +27,7 @@
 ## My main stack
 <br />
 <div align="center">  
-<a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a> &nbsp; <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="TypeScript" height="70" /></a> &nbsp; <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="NextJS" height="75" /></a> &nbsp; <!--<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a> -->
+<a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a> &nbsp; <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="TypeScript" height="70" /></a> &nbsp; <!-- <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="NextJS" height="75" /></a> --> &nbsp; <!--<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a> -->
   <br />
 
 </div>
