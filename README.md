@@ -18,7 +18,7 @@
 
 ## <div align="center">Hi, I'm Abhishek👋, a Java developer 💻 working from India.</div>  
 
-- 🌱 I’m certified in Java full stack development
+- 🌱 I’m certified in Java full stack development.
 <!-- - 🧑‍🎓 I'm currently studying developing web dev projects with Thymeleaf / React.js <!-- - 🛠 I’m currently working on [Congo, a Next.js theme](https://github.com/RobRuizR/next-theme-congo)   -->
 <!-- - 👨‍🏫 I'm happy to help you through Java / Spring Boot issues -->
 
